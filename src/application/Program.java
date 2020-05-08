@@ -73,6 +73,8 @@ public class Program {
         int month = cal.get(1 + Calendar.MONTH); // precisa somar 1 pq o Calendar começa com 0 (janeiro)
         System.out.println("Minutos: " + minutes);
         System.out.println("Mes: " + month);
+
+        System.out.println("Teste GIT");
     }
 
 }
